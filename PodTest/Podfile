@@ -1,0 +1,10 @@
+
+platform :ios, '10.0'
+
+target 'PodTest' do
+  
+  use_frameworks!
+
+ pod 'SVProgressHUD' 
+
+end
